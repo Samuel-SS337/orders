@@ -1,10 +1,19 @@
 {
   "orders": [
       {
-          "std_num":"123456",
           "id":1,
-          "name":"이성상",
-          "drink":"beer"
+          "name":"Sungsang",
+          "drink":"Coffee"
+      },
+      {
+          "id":2,
+          "name":"Samuel",
+          "drink":"Coke"
+        },
+      {
+          "id":3,
+          "name":"Bob",
+          "drink":"Beer"
         }
   ]
  }
