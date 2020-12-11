@@ -2,18 +2,35 @@
   "orders": [
       {
           "id":1,
-          "name":"Sungsang",
-          "drink":"Coffee"
+          "name":"Lee",
+          "drink":"Coffee",
+          "is_served":false
       },
       {
           "id":2,
           "name":"Samuel",
-          "drink":"Coke"
+          "drink":"Coke",
+          "is_served":false
         },
       {
           "id":3,
           "name":"Bob",
-          "drink":"Beer"
+          "drink":"Beer",
+          "is_served":true
         }
+    ,
+    {
+          "id":5,
+          "name":"Trump",
+          "drink":"whisky",
+          "is_served":true
+    }
+    ,
+    {
+          "id":6,
+          "name":"BTS",
+          "drink":"coke",
+          "is_served":false
+    }
   ]
  }
