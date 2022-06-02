@@ -32,5 +32,38 @@
           "drink":"coke",
           "is_served":false
     }
+    ,
+    {
+          "order_num":7,
+          "name":"Lee",
+          "drink":"Coffee",
+          "is_served":false
+      },
+      {
+          "order_num":8,
+          "name":"Samuel",
+          "drink":"Coke",
+          "is_served":false
+        },
+      {
+          "order_num":9,
+          "name":"Bob",
+          "drink":"Beer",
+          "is_served":true
+        }
+    ,
+    {
+          "order_num":10,
+          "name":"Trump",
+          "drink":"whisky",
+          "is_served":true
+    }
+    ,
+    {
+          "order_num":11,
+          "name":"BTS",
+          "drink":"coke",
+          "is_served":false
+    }
   ]
  }
