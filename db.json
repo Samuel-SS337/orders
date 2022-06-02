@@ -32,5 +32,19 @@
           "drink":"coke",
           "is_served":false
     }
+    ,
+    {
+          "order_num":5,
+          "name":"Trump",
+          "drink":"whisky",
+          "is_served":true
+    }
+    ,
+    {
+          "order_num":6,
+          "name":"BTS",
+          "drink":"coke",
+          "is_served":false
+    }
   ]
  }
